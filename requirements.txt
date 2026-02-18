@@ -1,0 +1,12 @@
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+torch==2.9.0+cu128
+datasets==4.0.0
+transformers==5.0.0
+scikit-learn==1.6.1
+peft==0.18.1
+lime==0.2.0.1
+onnxruntime==1.24.1
+onnxscript==0.6.2
